@@ -1,4 +1,4 @@
-<h1>🚀 Project 6 — Deploy a Real Application Using Helm (Python App)</h1>
+<h1>Project 6 — Deploy a Real Application Using Helm </h1>
 
 <p><strong>Let’s gooo 🔥</strong> — This project takes you into <b>real-world Kubernetes workflows</b>.</p>
 
